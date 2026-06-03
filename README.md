@@ -34,8 +34,8 @@ python src/main.py
 
 ## 功能特性
 
-- 📄 PDF 简历解析与结构化信息抽取
-- 🔍 简历与 JD 语义匹配评分
-- 🤖 多 Agent 深度分析（HR 视角 / Tech Lead 视角 / Career Coach 视角）
-- 🚀 支持本地 LLM 推理加速（vLLM / TensorRT-LLM）
-- 📊 可视化匹配报告
+- PDF 简历解析与结构化信息抽取
+- 简历与 JD 语义匹配评分
+- 多 Agent 深度分析（HR 视角 / Tech Lead 视角 / Career Coach 视角）
+- 支持本地 LLM 推理加速（vLLM / TensorRT-LLM）
+- 可视化匹配报告
